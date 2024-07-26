@@ -1,3 +1,1 @@
-app='Hello Heroes'
-print(app)
-print(app)
+"pkg install python"
